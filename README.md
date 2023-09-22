@@ -9,5 +9,6 @@ $$
 \left(\begin{array}{cc} 
 0.8944272 & 0.4472136\\
 -0.4472136 & -0.8944272
-\end{array}\right)$$
+\end{array}\right)
+$$
 At the beginning this matrix is going to be initialize with all zeros so we need something to change this and update the matrix as the agent pick actions.
