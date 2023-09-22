@@ -34,6 +34,10 @@ The problem with this is that once it finds a path it will never pick other rout
 ## Incredible Demostration
 I let him go for 100 iterations, in the simulation you can see the iteration number and the number of wins/fails as well as the state matrix every step.  
 Here you have the one with the Epsilon Decay and the other one without so you can compere. Enjoy.
-### No Epsilon Decay
+### With Epsilon Decay
 https://github.com/David-Bellon/RL/assets/91338053/8ecd53c7-163a-4782-bfba-708be3e36aa9
+### No Epsilon Decay
+https://github.com/David-Bellon/RL/assets/91338053/aebf62b3-a736-4a0a-8faa-45d100e8dad7
+
+
 
