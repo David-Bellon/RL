@@ -7,7 +7,7 @@ Ok, this sounds easy but we need some math to do this, not to much. So we have a
 So we can do this in a simple way with a matrix. The rows are gonna be the states and each column for each action.  
 ```math
 \left(\begin{array}{cc} 
-Q(s_{0}, a_{0}) & Q(s_{0}, a_{1}) & Q(s_{0}, a_{2}) \\ Q(s_{1}, a_{0}) & Q(s_{1}, a_{1}) & Q(s_{1}, a_{2})
+Q(s_{0}, a_{0}) & Q(s_{0}, a_{1}) & Q(s_{0}, a_{2}) \\ Q(s_{1}, a_{0}) & Q(s_{1}, a_{1}) & Q(s_{1}, a_{2}) \\ . & . & .
 \end{array}\right)
 ```
 At the beginning this matrix is going to be initialize with all zeros so we need something to change this and update the matrix as the agent pick actions.
